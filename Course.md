@@ -43,3 +43,19 @@
 ## Notes Bank
 
 ### CityU EE [Course Materials](https://github.com/CityuSource/EE-Notes)
+
+## Working in Progress (To be uploaded)
+
+### EE3206 [Java Programming and Applications](http://www.cityu.edu.hk/catalogue/ug/current/course/EE3206.htm)
+
+### EE3301 [Optimization Methods for Engineering](http://www.cityu.edu.hk/catalogue/ug/current/course/EE3301.htm)
+
+### EE4211 [Computer Vision](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4211.htm)
+
+### EE4221 [Cloud Computing Systems](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4221.htm)
+
+### EE4090 [Engineering Training](http://www.cityu.edu.hk/catalogue/ug/current/course/ee4090.htm)
+
+### SDSC4016 [Fundamentals of Machine Learning II](http://www.cityu.edu.hk/catalogue/ug/current/course/SDSC4016.htm)
+
+### FYP EE4080 [Project](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4080.htm)
