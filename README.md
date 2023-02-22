@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Course Related Repositories By Category](Course.md)
+
 <!--
 **AlexLeungZ/AlexLeungZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
