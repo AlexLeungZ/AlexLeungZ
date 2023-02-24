@@ -16,7 +16,7 @@
 
 [Course Project](https://github.com/AlexLeungZ/SDSC3002-proj)
 
-### SDSC3006 [Machine Leaning I](http://www.cityu.edu.hk/catalogue/ug/current/course/SDSC3006.htm)
+### SDSC3006 [Fundamentals of Machine Learning I](http://www.cityu.edu.hk/catalogue/ug/current/course/SDSC3006.htm)
 
 [Course Materials](https://github.com/AlexLeungZ/SDSC3006)
 
