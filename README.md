@@ -1,6 +1,11 @@
-### Hi there 👋
+### 👋 Hi there 
 
-[Course Related Repositories By Category](Course.md)
+I am Alex Leung Chun Wai.
+
+### 👋 Cource Related Resources
+
+- 🛠️ [Course Related Repositories](Course.md)
+- 📫 [Course Related Notes Bank](https://github.com/CityuSource/EE-Notes)
 
 <!--
 **AlexLeungZ/AlexLeungZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
