@@ -8,6 +8,10 @@
 
 [Course Project](https://github.com/AlexLeungZ/SDSC2001-proj)
 
+### SDSC2005 [Introduction to Computational Social Science](https://www.cityu.edu.hk/catalogue/ug/current/course/SDSC2005.htm) (WIP)
+
+[Course Materials](https://github.com/AlexLeungZ/SDSC2005)
+
 ### SDSC2102 [Statistical Methods and Data Analysis](http://www.cityu.edu.hk/catalogue/ug/current/course/SDSC2102.htm)
 
 [Course Project](https://github.com/AlexLeungZ/SDSC2102-project)
@@ -22,7 +26,7 @@
 
 [Course Project](https://github.com/AlexLeungZ/SDSC3006-proj)
 
-### SDSC4016 [Fundamentals of Machine Learning II](http://www.cityu.edu.hk/catalogue/ug/current/course/SDSC4016.htm)
+### SDSC4016 [Fundamentals of Machine Learning II](http://www.cityu.edu.hk/catalogue/ug/current/course/SDSC4016.htm) (WIP)
 
 [Course Materials](https://github.com/AlexLeungZ/SDSC4016)
 
@@ -71,7 +75,3 @@
 ### EE4090 [Engineering Training](http://www.cityu.edu.hk/catalogue/ug/current/course/ee4090.htm)
 
 ### FYP EE4080 [Project](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4080.htm)
-
-### SDSC2005 [Introduction to Computational Social Science](https://www.cityu.edu.hk/catalogue/ug/current/course/SDSC2005.htm)
-
-### SDSC4016 [Fundamentals of Machine Learning II](http://www.cityu.edu.hk/catalogue/ug/current/course/SDSC4016.htm)
