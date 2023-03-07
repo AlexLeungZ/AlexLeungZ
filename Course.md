@@ -71,3 +71,7 @@
 ### EE4090 [Engineering Training](http://www.cityu.edu.hk/catalogue/ug/current/course/ee4090.htm)
 
 ### FYP EE4080 [Project](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4080.htm)
+
+### SDSC2005 [Introduction to Computational Social Science](https://www.cityu.edu.hk/catalogue/ug/current/course/SDSC2005.htm)
+
+### SDSC4016 [Fundamentals of Machine Learning II](http://www.cityu.edu.hk/catalogue/ug/current/course/SDSC4016.htm)
