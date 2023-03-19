@@ -1,4 +1,4 @@
-### 👋 Hi there 
+### 👋 Hi there
 
 I am Alex Leung Chun Wai.
 
@@ -9,26 +9,13 @@ I am Alex Leung Chun Wai.
 
 ### 👣 Stats
 
-<!-- Dark mode only -->
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AlexLeungZ&count_private=true&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AlexLeungZ&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLeungZ&hide=html&langs_count=8&layout=compact&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Light mode only -->
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AlexLeungZ&count_private=true&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLeungZ&hide=html&langs_count=8&layout=compact&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLeungZ&hide=html&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Extra Pins
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=xxx)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
-
-
-
-
 
 
 <!--
@@ -45,5 +32,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
