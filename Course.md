@@ -4,63 +4,94 @@
 
 ### SDSC2001 [Python for Data Science](http://www.cityu.edu.hk/catalogue/ug/current/course/SDSC2001.htm)
 
-[Course Materials](https://github.com/AlexLeungZ/SDSC2001)
-
-[Course Project](https://github.com/AlexLeungZ/SDSC2001-proj)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=SDSC2001" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=SDSC2001-proj" />
+</a>
 
 ### SDSC2005 [Introduction to Computational Social Science](https://www.cityu.edu.hk/catalogue/ug/current/course/SDSC2005.htm) (WIP)
 
-[Course Materials](https://github.com/AlexLeungZ/SDSC2005)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=SDSC2005" />
+</a>
 
 ### SDSC2102 [Statistical Methods and Data Analysis](http://www.cityu.edu.hk/catalogue/ug/current/course/SDSC2102.htm)
 
-[Course Project](https://github.com/AlexLeungZ/SDSC2102-project)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=SDSC2102-project" />
+</a>
 
 ### SDSC3002 [Data Mining](http://www.cityu.edu.hk/catalogue/ug/current/course/SDSC3002.htm)
 
-[Course Project](https://github.com/AlexLeungZ/SDSC3002-proj)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=SDSC3002-proj" />
+</a>
 
 ### SDSC3006 [Fundamentals of Machine Learning I](http://www.cityu.edu.hk/catalogue/ug/current/course/SDSC3006.htm)
 
-[Course Materials](https://github.com/AlexLeungZ/SDSC3006)
-
-[Course Project](https://github.com/AlexLeungZ/SDSC3006-proj)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=SDSC3006" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=SDSC3006-proj" />
+</a>
 
 ### SDSC4016 [Fundamentals of Machine Learning II](http://www.cityu.edu.hk/catalogue/ug/current/course/SDSC4016.htm) (WIP)
 
-[Course Materials](https://github.com/AlexLeungZ/SDSC4016)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=SDSC4016" />
+</a>
 
 ### EE4146 [Data Engineering and Learning Systems](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4146.htm)
 
-[Course Project Classification 1](https://github.com/AlexLeungZ/EE4146-class-t1)
-
-[Course Project Classification 2](https://github.com/AlexLeungZ/EE4146-class-t2)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE4146-class-t1" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE4146-class-t2" />
+</a>
 
 ### EE4211 [Computer Vision](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4211.htm)
 
-[Course Project Object Detection](https://github.com/AlexLeungZ/EE4211-det)
-
-[Course Project Object Segmentation](https://github.com/AlexLeungZ/EE4211-seg)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE4211-det" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE4211-seg" />
+</a>
 
 ## Computer Engineering
 
 ### EE3220 [System-on-Chip Design](http://www.cityu.edu.hk/catalogue/ug/current/course/EE3220.htm)
 
-[Lab 1 part A](https://github.com/AlexLeungZ/EE3220-lab1)
-
-[Lab 1 part B](https://github.com/AlexLeungZ/EE3220-lab1_LED_control)
-
-[Lab 2 part A](https://github.com/AlexLeungZ/EE3220-lab2)
-
-[Lab 2 part B](https://github.com/AlexLeungZ/EE3220-lab2_b)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE3220-lab1" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE3220-lab1_LED_control" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE3220-lab2" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE3220-lab2_b" />
+</a>
 
 ### EE3301 [Optimization Methods for Engineering](http://www.cityu.edu.hk/catalogue/ug/current/course/EE3301.htm)
 
-[Course Materials](https://github.com/AlexLeungZ/EE3301)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE3301" />
+</a>
 
 ## Notes Bank
 
 ### CityU EE [Course Materials](https://github.com/CityuSource/EE-Notes)
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE-Notes" />
+</a>
 
 ## Working in Progress (To be uploaded)
 
