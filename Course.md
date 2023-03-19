@@ -90,7 +90,7 @@
 ### CityU EE [Course Materials](https://github.com/CityuSource/EE-Notes)
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE-Notes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityuSource&repo=EE-Notes" />
 </a>
 
 ## Working in Progress (To be uploaded)
