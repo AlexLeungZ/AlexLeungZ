@@ -76,6 +76,12 @@
 
 ## Computer Engineering
 
+### EE3206 [Java Programming and Applications](http://www.cityu.edu.hk/catalogue/ug/current/course/EE3206.htm)
+
+<a href="https://github.com/AlexLeungZ/EE3206">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE3206&theme=dracula" />
+</a>
+
 ### EE3220 [System-on-Chip Design](http://www.cityu.edu.hk/catalogue/ug/current/course/EE3220.htm)
 
 <a href="https://github.com/AlexLeungZ/EE3220-lab1">
@@ -97,6 +103,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE3301&theme=dracula" />
 </a>
 
+### EE4090 [Engineering Training](http://www.cityu.edu.hk/catalogue/ug/current/course/ee4090.htm)
+
+<a href="https://github.com/AlexLeungZ/EE4090-M2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE4090-M2&theme=dracula" />
+</a>
+
 ## Notes Bank
 
 ### CityU EE [Course Materials](https://github.com/CityuSource/EE-Notes)
@@ -107,14 +119,10 @@
 
 ## Working in Progress (To be uploaded)
 
-### EE3206 [Java Programming and Applications](http://www.cityu.edu.hk/catalogue/ug/current/course/EE3206.htm)
-
 ### EE4215 [Cybersecurity Technology](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4215.htm)
 
 ### EE4216 [Modern Web Applications](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4216.htm)
 
 ### EE4221 [Cloud Computing Systems](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4221.htm)
 
-### EE4090 [Engineering Training](http://www.cityu.edu.hk/catalogue/ug/current/course/ee4090.htm)
-
-### FYP EE4080 [Project](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4080.htm)
+<!-- ### FYP EE4080 [Project](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4080.htm) -->
