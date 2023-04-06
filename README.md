@@ -3,8 +3,8 @@
 ### 👋 Hi there
 
 - 😄 I am Alex Leung.
-- 😄 I am a Computer and Data Engineer graduate from The City University of Hong Kong (CityU).
-<!-- - 💬 Reach me via Email: **alexleungchunwai@hotmail.com** -->
+- 💭 I am a Computer and Data Engineer 
+- 👁️‍🗨️ Graduate from The City University of Hong Kong (CityU).
 - 💬 Reach me via LinkedIn: **[Alex Leung](https://www.linkedin.com/in/chun-wai-leung-1192b4213/)**
 
 ### 👋 Cource Related Resources
@@ -18,9 +18,20 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLeungZ&hide=html,jupyter%20notebook&langs_count=8&layout=compact&theme=dracula&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ### Extra Pins
+### 💪 Extra Pins
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=xxx)](https://github.com/anuraghazra/github-readme-stats) -->
+<a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-hw1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-SDSC4016-2022&repo=SDSC4016-hw1&theme=dracula" />
+</a>
+<a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-hw2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-SDSC4016-2022&repo=SDSC4016-hw2&theme=dracula" />
+</a>
+<a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-hw3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-SDSC4016-2022&repo=SDSC4016-hw3&theme=dracula" />
+</a>
+<!-- <a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-proj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-SDSC4016-2022&repo=SDSC4016-proj&theme=dracula" />
+</a> -->
 
 <!-- Here are some ideas to get you started:
 

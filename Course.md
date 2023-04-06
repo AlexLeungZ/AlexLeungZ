@@ -43,6 +43,18 @@
 <a href="https://github.com/AlexLeungZ/SDSC4016">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=SDSC4016&theme=dracula" />
 </a>
+<a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-hw1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-SDSC4016-2022&repo=SDSC4016-hw1&theme=dracula" />
+</a>
+<a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-hw2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-SDSC4016-2022&repo=SDSC4016-hw2&theme=dracula" />
+</a>
+<a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-hw3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-SDSC4016-2022&repo=SDSC4016-hw3&theme=dracula" />
+</a>
+<!-- <a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-proj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-SDSC4016-2022&repo=SDSC4016-proj&theme=dracula" />
+</a> -->
 
 ### EE4146 [Data Engineering and Learning Systems](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4146.htm)
 
