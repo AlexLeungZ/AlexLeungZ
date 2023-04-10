@@ -16,7 +16,7 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AlexLeungZ&count_private=true&show_icons=true&theme=dracula&card_width=500px)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLeungZ&hide=html,jupyter%20notebook&langs_count=8&layout=compact&theme=dracula&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLeungZ&hide=html,php,tcl,jupyter%20notebook&langs_count=8&layout=compact&theme=dracula&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💪 Extra Pins
 
@@ -32,6 +32,9 @@
 <!-- <a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-proj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-SDSC4016-2022&repo=SDSC4016-proj&theme=dracula" />
 </a> -->
+<a href="https://github.com/CityU-22-EEFYP/Solidity-Tutorials">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-22-EEFYP&repo=Solidity-Tutorials&theme=dracula" />
+</a>
 
 <!-- Here are some ideas to get you started:
 

@@ -109,6 +109,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE4090-M2&theme=dracula" />
 </a>
 
+### FYP EE4080 [Final Year Project](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4080.htm)
+
+<a href="https://github.com/CityU-22-EEFYP/Solidity-Tutorials">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-22-EEFYP&repo=Solidity-Tutorials&theme=dracula" />
+</a>
+
 ## Notes Bank
 
 ### CityU EE [Course Materials](https://github.com/CityuSource/EE-Notes)
@@ -124,5 +130,3 @@
 ### EE4216 [Modern Web Applications](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4216.htm)
 
 ### EE4221 [Cloud Computing Systems](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4221.htm)
-
-<!-- ### FYP EE4080 [Project](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4080.htm) -->
