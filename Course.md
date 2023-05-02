@@ -106,6 +106,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE3301&theme=dracula" />
 </a>
 
+### EE4215 [Cybersecurity Technology](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4215.htm)
+
+<a href="https://github.com/AlexLeungZ/EE4215">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE4215&theme=dracula" />
+</a>
+
 ### EE4090 [Engineering Training](http://www.cityu.edu.hk/catalogue/ug/current/course/ee4090.htm)
 
 <a href="https://github.com/AlexLeungZ/EE4090-M2">
@@ -128,7 +134,7 @@
 
 ## Working in Progress (To be uploaded)
 
-### EE4215 [Cybersecurity Technology](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4215.htm)
+### EE2004 [Microcomputer Systems](https://www.cityu.edu.hk/catalogue/ug/current/course/EE2004.htm)
 
 ### EE4216 [Modern Web Applications](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4216.htm)
 
