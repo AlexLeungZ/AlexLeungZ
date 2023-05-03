@@ -112,6 +112,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE4215&theme=dracula" />
 </a>
 
+### EE4216 [Modern Web Applications](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4216.htm)
+
+<a href="https://github.com/AlexLeungZ/EE4215">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=EE4216&theme=dracula" />
+</a>
+
 ### EE4090 [Engineering Training](http://www.cityu.edu.hk/catalogue/ug/current/course/ee4090.htm)
 
 <a href="https://github.com/AlexLeungZ/EE4090-M2">
@@ -135,7 +141,5 @@
 ## Working in Progress (To be uploaded)
 
 ### EE2004 [Microcomputer Systems](https://www.cityu.edu.hk/catalogue/ug/current/course/EE2004.htm)
-
-### EE4216 [Modern Web Applications](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4216.htm)
 
 ### EE4221 [Cloud Computing Systems](http://www.cityu.edu.hk/catalogue/ug/current/course/EE4221.htm)
