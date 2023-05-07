@@ -11,12 +11,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=SDSC2001-proj&theme=dracula" />
 </a>
 
-### SDSC2005 [Introduction to Computational Social Science](https://www.cityu.edu.hk/catalogue/ug/current/course/SDSC2005.htm) (WIP)
-
-<a href="https://github.com/AlexLeungZ/SDSC2005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlexLeungZ&repo=SDSC2005&theme=dracula" />
-</a>
-
 ### SDSC2102 [Statistical Methods and Data Analysis](http://www.cityu.edu.hk/catalogue/ug/current/course/SDSC2102.htm)
 
 <a href="https://github.com/AlexLeungZ/SDSC2102-project">
