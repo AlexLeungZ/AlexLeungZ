@@ -2,7 +2,7 @@
 
 ### 👋 Hi there
 
-- 😄 I am Alex Leung.
+- 😄 I am Alex Leung. (This is my personal GitHub account)
 - 💭 I am a Computer and Data Engineer
 - 👁️‍🗨️ Graduate from The City University of Hong Kong (CityU).
 - 💬 Reach me via LinkedIn: **[Alex Leung](https://www.linkedin.com/in/chun-wai-leung-1192b4213/)**
