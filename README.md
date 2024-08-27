@@ -18,26 +18,26 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexLeungZ&hide=html,php,tcl,jupyter%20notebook&langs_count=8&layout=compact&theme=dracula&card_width=800px)](https://github.com/AlexLeungZ)
 
-### 💪 Extra Pins
+<!-- ### 💪 Extra Pins -->
 
-<a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-hw1">
+<!-- <a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-hw1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-SDSC4016-2022&repo=SDSC4016-hw1&theme=dracula" />
-</a>
-<a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-hw2">
+</a> -->
+<!-- <a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-hw2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-SDSC4016-2022&repo=SDSC4016-hw2&theme=dracula" />
-</a>
-<a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-hw3">
+</a> -->
+<!-- <a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-hw3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-SDSC4016-2022&repo=SDSC4016-hw3&theme=dracula" />
-</a>
-<a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-hw4">
+</a> -->
+<!-- <a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-hw4">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-SDSC4016-2022&repo=SDSC4016-hw4&theme=dracula" />
-</a>
-<a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-proj">
+</a> -->
+<!-- <a href="https://github.com/CityU-SDSC4016-2022/SDSC4016-proj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-SDSC4016-2022&repo=SDSC4016-proj&theme=dracula" />
-</a>
-<a href="https://github.com/CityU-22-EEFYP/Solidity-Tutorials">
+</a> -->
+<!-- <a href="https://github.com/CityU-22-EEFYP/Solidity-Tutorials">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CityU-22-EEFYP&repo=Solidity-Tutorials&theme=dracula" />
-</a>
+</a> -->
 
 ### Special Thanks
 
