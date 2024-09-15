@@ -6,6 +6,7 @@
 - 💭 I am a Computer and Data Engineer
 - 👁️‍🗨️ Graduate from The City University of Hong Kong (CityU).
 - 💬 Reach me via LinkedIn: **[Alex Leung](https://www.linkedin.com/in/chun-wai-leung-1192b4213/)**
+- 📝 As I am currently working for a full-time job, this account may not be updated as frequently as it used to be.
 
 ### 👋 Cource Related Resources
 
